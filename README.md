@@ -7,7 +7,7 @@ This app is for managing Albums and Photos from a dashboard. It's made with the 
 To run the app on your computer, follow these steps:
 
 - Install the necessary dependencies by running `yarn`.
-- Once the installation is complete, start the app by running `yarn dev`. This will open a new tab in your default web browser.
+- Once the installation is complete, start the app by running `yarn dev`. This will initialize the app in `http://localhost:5173/`.
 
 ## 🧪 Testing
 
@@ -21,9 +21,11 @@ To run this app, you need to have [Node.js](https://nodejs.org/es/download/) ins
 ## 🖼️ Pictures
 
 ### Albums Page
+<img width="1280" alt="albums_page" src="https://github.com/fjplaurr/react-admin/assets/31987162/e64ec0e5-c8ef-44df-81f1-50c4c83c7c96">
 
 
 ### Photos Page
+<img width="1280" alt="photos_page" src="https://github.com/fjplaurr/react-admin/assets/31987162/3fc36d98-34be-4308-a1f7-3cdb83f358fd">
 
 
 ## 📝 Requirements
